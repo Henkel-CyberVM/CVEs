@@ -4,7 +4,7 @@ This repository contains details and proof of concept (PoC) code for several CVE
 
 ### Disclaimer
  
-Please note that the CVE entries and associated PoC code provided here are for educational and research purposes only. Henkel does not take any responsibility or liability for any consequences arising from the use or misuse of the information contained in this repository. By accessing this repository, you agree to use the information solely for ethical purposes and in compliance with all applicable laws and regulations.
+Please note that the CVE entries and associated PoC code provided here are for educational and research purposes only. Henkel does not take responsibility or liability for any consequences arising from the use or misuse of the information contained in this repository. By accessing this repository, you agree to use the information solely for ethical purposes and in compliance with all applicable laws and regulations.
  
 We encourage responsible disclosure and urge users to apply the appropriate security patches and mitigations where necessary.
 What’s Included
